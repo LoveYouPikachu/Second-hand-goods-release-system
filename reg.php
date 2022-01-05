@@ -10,7 +10,7 @@
     echo "<script language='javascript'>alert('验证失败');history.back();</script>";
     exit;
   }
-  
+  //
  ?>
 </span>
  

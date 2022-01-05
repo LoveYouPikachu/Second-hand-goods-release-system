@@ -26,7 +26,7 @@ error_reporting(E_ALL || ~E_NOTICE);
 <script type="text/javascript" src="./lib/layui/layui.js" charset="utf-8"></script>
 <script type="text/javascript" src="./js/xadmin.js"></script>
 <script type="text/javascript">
-
+//
 ddsmoothmenu.init({
 	mainmenuid: "top_nav", //menu DIV id
 	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
