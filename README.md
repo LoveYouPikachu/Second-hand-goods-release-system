@@ -15,8 +15,11 @@ The front end of the system adopts Bootstap+LayUI technology to realize the func
 This system aims to provide a platform for college students to deal with idle and buy high-quality and cheap idle items; more importantly, this system can make full use of idle items to save resources and optimize resource allocation. 
 
 ### Project screenshot <br/>
-<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/blob/master/pictures/1.png">
-<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/blob/master/pictures/2.png">
-<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/blob/master/pictures/3.png">
-<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/blob/master/pictures/4.png">
-<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/blob/master/pictures/5.png">
+<img src="https://github.com/LoveYouPikachu/Second-hand-goods-release-system/blob/master/pictures/1.png">
+<img src="https://github.com/LoveYouPikachu/Second-hand-goods-release-system/blob/master/pictures/2.png">
+<img src="https://github.com/LoveYouPikachu/Second-hand-goods-release-system/blob/master/pictures/3.png">
+<img src="https://github.com/LoveYouPikachu/Second-hand-goods-release-system/blob/master/pictures/4.png">
+<img src="https://github.com/LoveYouPikachu/Second-hand-goods-release-system/blob/master/pictures/5.png">
+<img src="https://github.com/LoveYouPikachu/Second-hand-goods-release-system/blob/master/pictures/6.png">
+<img src="https://github.com/LoveYouPikachu/Second-hand-goods-release-system/blob/master/pictures/7.png">
+
